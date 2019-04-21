@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: demo
+  redis:
+    host: 127.0.0.1
+    database: 0
+    password: ogUSaJlyvkMSPd6j
+    port: 6379
+    redisson:
+      config: classpath:redisson.yml
